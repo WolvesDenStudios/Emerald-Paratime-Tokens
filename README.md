@@ -1,1 +1,1 @@
-# Emerald-Paratime-Tokens
+# Emerald-Paratime
